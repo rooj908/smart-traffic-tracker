@@ -1,5 +1,8 @@
-﻿ultralytics>=8.0.0
-opencv-python>=4.8.0
+﻿--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+ultralytics>=8.0.0
+opencv-python-headless
 supervision>=0.20.0
 numpy>=1.24.0
 streamlit>=1.28.0
