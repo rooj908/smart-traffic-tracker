@@ -1,0 +1,9 @@
+﻿venv/
+__pycache__/
+uploads/
+outputs/
+*.pt
+*.mp4
+*.avi
+*.mov
+*.mkv
